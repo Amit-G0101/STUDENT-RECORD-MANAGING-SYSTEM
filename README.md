@@ -1,0 +1,2 @@
+# STUDENT-RECORD-MANAGING-SYSTEM
+Mini Project using Java and JDBC
